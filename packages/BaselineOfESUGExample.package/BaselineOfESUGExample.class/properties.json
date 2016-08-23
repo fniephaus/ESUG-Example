@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfESUGExample",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfESUGExample",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

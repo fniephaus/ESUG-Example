@@ -1,0 +1,14 @@
+{
+	"category" : "ESUG-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"myValue" ],
+	"name" : "ESUGExample",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

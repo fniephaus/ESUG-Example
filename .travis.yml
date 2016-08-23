@@ -1,0 +1,12 @@
+language: smalltalk
+sudo: false
+
+os:
+  - linux
+  - osx
+
+smalltalk:
+  - Squeak-5.0
+  - Pharo-stable
+  - Pharo-3.0
+  - GemStone-3.3.0
